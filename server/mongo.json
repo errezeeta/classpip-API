@@ -1,4 +1,4 @@
-"baseDatosMongoDB": {
+"baseDatosMongoDB" : {
   "host": "localhost",
   "port": 27017,
   "url": "",
@@ -8,3 +8,4 @@
   "user": "",
   "connector": "mongodb"
 },
+
